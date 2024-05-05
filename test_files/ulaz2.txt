@@ -1,0 +1,230 @@
+{
+    "Classrooms": {
+        "n": [
+            "CL1",
+            "CL2",
+            "CL3",
+            "CL4",
+            "CL5"
+        ],
+        "r": [
+            "LT1",
+            "LT2",
+            "LT3",
+            "LT4",
+            "LT5"
+        ]
+    },
+    "Hours": [
+        {
+            "name": "SE",
+            "type": "V",
+            "teacher": "Dr. DKV",
+            "group": [
+                "B1"
+            ],
+            "classroom": "r",
+            "duration": "2"
+        },
+        {
+            "name": "SE",
+            "type": "L",
+            "teacher": "Dr. NKP",
+            "group": [
+                "B1"
+            ],
+            "classroom": "r",
+            "duration": "2"
+        },
+        {
+            "name": "COA",
+            "type": "P",
+            "teacher": "Dr. KBM",
+            "group": [
+                "B1",
+                "B2"
+            ],
+            "classroom": "n",
+            "duration": "2"
+        },
+        {
+            "name": "COA",
+            "type": "V",
+            "teacher": "Dr. PP",
+            "group": [
+                "B1",
+                "B3"
+            ],
+            "classroom": "n",
+            "duration": "3"
+        },
+        {
+            "name": "SE",
+            "type": "P",
+            "teacher": "Dr. AS",
+            "group": [
+                "B1",
+                "B2"
+            ],
+            "classroom": "n",
+            "duration": "2"
+        },
+        {
+            "name": "LQT",
+            "type": "P",
+            "teacher": "Dr. KBM",
+            "group": [
+                "B1",
+                "B2"
+            ],
+            "classroom": "n",
+            "duration": "2"
+        },
+        {
+            "name": "LQT",
+            "type": "V",
+            "teacher": "Dr. PP",
+            "group": [
+                "B1",
+                "B2"
+            ],
+            "classroom": "n",
+            "duration": "3"
+        },
+        {
+            "name": "SE",
+            "type": "V",
+            "teacher": "Dr. DKV",
+            "group": [
+                "B2"
+            ],
+            "classroom": "r",
+            "duration": "2"
+        },
+        {
+            "name": "SE",
+            "type": "L",
+            "teacher": "Dr. NKP",
+            "group": [
+                "B2"
+            ],
+            "classroom": "r",
+            "duration": "2"
+        },
+        {
+            "name": "COA",
+            "type": "P",
+            "teacher": "Dr. KBM",
+            "group": [
+                "B3",
+                "B4"
+            ],
+            "classroom": "n",
+            "duration": "2"
+        },
+        {
+            "name": "COA",
+            "type": "V",
+            "teacher": "Dr. PP",
+            "group": [
+                "B3",
+                "B4"
+            ],
+            "classroom": "n",
+            "duration": "3"
+        },
+        {
+            "name": "SE",
+            "type": "P",
+            "teacher": "Dr. AS",
+            "group": [
+                "B3",
+                "B4"
+            ],
+            "classroom": "n",
+            "duration": "2"
+        },
+        {
+            "name": "LQT",
+            "type": "V",
+            "teacher": "Dr. PP",
+            "group": [
+                "B3",
+                "B4"
+            ],
+            "classroom": "n",
+            "duration": "3"
+        },
+        {
+            "name": "LQT",
+            "type": "P",
+            "teacher": "Dr. KBM",
+            "group": [
+                "B3",
+                "B4"
+            ],
+            "classroom": "n",
+            "duration": "2"
+        },
+        {
+            "name": "COA",
+            "type": "P",
+            "teacher": "Dr. KBM",
+            "group": [
+                "B5",
+                "B6",
+                "B7"
+            ],
+            "classroom": "n",
+            "duration": "2"
+        },
+        {
+            "name": "COA",
+            "type": "V",
+            "teacher": "Dr. PP",
+            "group": [
+                "B5",
+                "B6",
+                "B7"
+            ],
+            "classroom": "n",
+            "duration": "3"
+        },
+        {
+            "name": "SE",
+            "type": "P",
+            "teacher": "Dr. AS",
+            "group": [
+                "B5",
+                "B6",
+                "B7"
+            ],
+            "classroom": "n",
+            "duration": "2"
+        },
+        {
+            "name": "LQT",
+            "type": "P",
+            "teacher": "Dr. KBM",
+            "group": [
+                "B5",
+                "B6",
+                "B7"
+            ],
+            "classroom": "n",
+            "duration": "2"
+        },
+        {
+            "name": "LQT",
+            "type": "V",
+            "teacher": "Dr. PP",
+            "group": [
+                "B5",
+                "B6",
+                "B7"
+            ],
+            "classroom": "n",
+            "duration": "3"
+        }
+    ]
+}

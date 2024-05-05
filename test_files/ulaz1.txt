@@ -1,0 +1,181 @@
+{
+  "Classrooms": {
+    "lab": [
+      "CL1",
+      "CL2",
+      "CL3",
+      "CL4",
+      "CL5"
+    ],
+    "tut": [
+      "CR1",
+      "CR2",
+      "CR3",
+      "CR4",
+      "CR5"
+    ],
+    "let": [
+      "LT1",
+      "LT2",
+      "LT3",
+      "LT4",
+      "LT5"
+    ]
+  },
+  "Hours": [
+    {
+      "name": "se lab",
+      "type": "lab",
+      "teacher": "dr. dkv",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "lab",
+      "duration": "2"
+    },
+    {
+      "name": "coa lecture",
+      "type": "let",
+      "teacher": "dr. nkp",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "let",
+      "duration": "1"
+    },
+    {
+      "name": "se lab",
+      "type": "lab",
+      "teacher": "dr. dkv",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "lab",
+      "duration": "2"
+    },
+    {
+      "name": "coa lecture",
+      "type": "let",
+      "teacher": "dr. nkp",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "let",
+      "duration": "1"
+    },
+    {
+      "name": "se lab",
+      "type": "lab",
+      "teacher": "dr. dkv",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "lab",
+      "duration": "2"
+    },
+    {
+      "name": "coa lecture",
+      "type": "let",
+      "teacher": "dr. nkp",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "let",
+      "duration": "1"
+    },
+    {
+      "name": "se lab",
+      "type": "lab",
+      "teacher": "dr. dkv",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "lab",
+      "duration": "2"
+    },
+    {
+      "name": "coa lecture",
+      "type": "let",
+      "teacher": "dr. nkp",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "let",
+      "duration": "1"
+    },
+    {
+      "name": "se lab",
+      "type": "lab",
+      "teacher": "dr. dkv",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "lab",
+      "duration": "2"
+    },
+    {
+      "name": "coa lecture",
+      "type": "let",
+      "teacher": "dr. nkp",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "let",
+      "duration": "1"
+    },
+    {
+      "name": "se lab",
+      "type": "lab",
+      "teacher": "dr. dkv",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "lab",
+      "duration": "2"
+    },
+    {
+      "name": "coa lecture",
+      "type": "let",
+      "teacher": "dr. nkp",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "let",
+      "duration": "1"
+    },
+    {
+      "name": "se lab",
+      "type": "lab",
+      "teacher": "dr. dkv",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "lab",
+      "duration": "2"
+    },
+    {
+      "name": "coa lecture",
+      "type": "let",
+      "teacher": "dr. nkp",
+      "group": [
+        "b9",
+        "b10"
+      ],
+      "classroom": "let",
+      "duration": "1"
+    }
+  ]
+}
